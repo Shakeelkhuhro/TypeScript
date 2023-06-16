@@ -1,5 +1,7 @@
 # TypeScript Introduction
 
+ **(README contains only theory part for practical examples visit: https://github.com/Shakeelkhuhro/TypeScript/blob/main/index.ts)**
+
 TypeScript is a strongly-typed superset of JavaScript that adds static typing to your code and provides advanced features for better tooling and maintainability.
 
 ## Table of Contents
