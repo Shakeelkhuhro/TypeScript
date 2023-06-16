@@ -1,7 +1,7 @@
 //  type annotations:
 
 let age2: number = 25;
-let name2: string = "John";
+let name2: string = "Shakeel";
 
 function greet(person: string): void {
   console.log("Hello, " + person + "!");
@@ -10,7 +10,7 @@ function greet(person: string): void {
 //  type inference:
 
 let age1 = 25;  // TypeScript infers `age` as `number`
-let name1 = "John";  // TypeScript infers `name` as `string`
+let name1 = "Shakeel";  // TypeScript infers `name` as `string`
 
 //  an interface:
 
@@ -79,13 +79,13 @@ status1 = "active";  // Valid
 
 
 let username: string | null;
-username = "john.doe";  // Valid
+username = "Shakeel.Ahmed";  // Valid
 username = null;  // Valid
 
 //  optional chaining:
 
 const user2 = {
-  name: "John",
+  name: "Shakeel",
   address: {
     city: "New York",
   },
